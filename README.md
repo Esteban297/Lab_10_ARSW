@@ -22,9 +22,17 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-function-configii.png)
 
+## Creación
+![image](https://user-images.githubusercontent.com/90571387/201090948-dcdc1291-026a-40ed-8109-95c5a1110c41.png)
+
+
 2. Instale la extensión de **Azure Functions** para Visual Studio Code.
 
 ![](images/part3/part3-install-extension.png)
+
+## Instalación
+![image](https://user-images.githubusercontent.com/90571387/201091619-9f972994-5533-4b3b-b1b5-2b0d4ba4c176.png)
+
 
 3. Despliegue la Function de Fibonacci a Azure usando Visual Studio Code. La primera vez que lo haga se le va a pedir autenticarse, siga las instrucciones.
 
@@ -32,9 +40,20 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-deploy-function-2.png)
 
+## Despliegue
+![image](https://user-images.githubusercontent.com/90571387/201094618-2773a45d-4933-4593-aaff-e6101dbd6889.png)
+
+
 4. Dirijase al portal de Azure y pruebe la function.
 
 ![](images/part3/part3-test-function.png)
+
+## Función en Azure
+![image](https://user-images.githubusercontent.com/90571387/201095068-2d536a39-ee9f-46ae-b197-336805c87af6.png)
+## Probando 
+![image](https://user-images.githubusercontent.com/90571387/201095385-349e86cc-4d38-445b-b596-1d7b86d7b42a.png)
+
+
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
