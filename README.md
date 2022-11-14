@@ -51,11 +51,19 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 ## Función en Azure
 ![image](https://user-images.githubusercontent.com/90571387/201095068-2d536a39-ee9f-46ae-b197-336805c87af6.png)
 ## Probando 
-![image](https://user-images.githubusercontent.com/90571387/201095385-349e86cc-4d38-445b-b596-1d7b86d7b42a.png)
+![image](https://user-images.githubusercontent.com/90571387/201769642-cd3d37a7-96c7-42f2-94b7-db85f3202a0e.png)
 
 
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
+
+## Colección en Postman
+  ![image](https://user-images.githubusercontent.com/90571387/201775637-8985fac9-c5bc-4138-b218-ae888edfc745.png)
+ 
+## Ejecución
+  ![image](https://user-images.githubusercontent.com/90571387/201778795-b01f4986-4485-454a-94bc-65745da83573.png)
+  ![image](https://user-images.githubusercontent.com/90571387/201778827-1478188d-6a81-4c85-98ca-3be027ce674f.png)
+
 
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
