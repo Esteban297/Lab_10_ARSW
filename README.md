@@ -118,3 +118,13 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
     > Se factura en función del consumo de recursos y las ejecuciones 
     > por segundo.
 * Informe
+
+## Ejecución Memorización
+  * Como podemos ver, el tiempo de duración se redujo a la mitad aproximadamente
+  ![image](https://user-images.githubusercontent.com/90571387/201784459-20d7d33a-6b66-4089-bc1d-a151f6d7347e.png)
+  * CPU
+  ![image](https://user-images.githubusercontent.com/90571387/201784611-ab04a588-a9c2-4663-9c86-c2d4b15339d8.png)
+  ![image](https://user-images.githubusercontent.com/90571387/201784706-3b0d85cc-5e58-4dbc-896a-89818f87169c.png)
+
+
+
